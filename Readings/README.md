@@ -14,3 +14,7 @@
    * [ Maths Behind SVM (6 Article series)](https://www.svm-tutorial.com/2017/02/svms-overview-support-vector-machines/)
    * [A Gentle Introduction to Support Vector Machines](https://med.nyu.edu/chibi/sites/default/files/chibi/Final.pdf)
    * [Artificial Intelligence: A Modern Approach 3rd Edition (Page 751-761)](https://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-approach.9780131038059.25368.pdf)
+
+#### Decision Tree
+   * [Decision Trees Algorithm](https://medium.com/deep-math-machine-learning-ai/chapter-4-decision-trees-algorithms-b93975f7a1f1)
+   * [Decision Tree: How To Create A Perfect Decision Tree?](https://www.edureka.co/blog/decision-trees/)
