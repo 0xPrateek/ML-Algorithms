@@ -10,7 +10,8 @@ The purpose of this project is to implement all Machine learning algorithms in d
    * Implementation
         * Supervised Learning <br/>
            * [ Linear Regression](https://github.com/0xPrateek/ML-Algorithms/blob/master/Algorithms/Linear%20Regression/LinearRegression.py)
-                   
+           * [ Decision Tree (Split Algorithm - Id3)](https://github.com/0xPrateek/ML-Algorithms/blob/master/Algorithms/Decision%20Tree/Decision%20Tree%20using%20ID3.py)
+           
  ### Installation
  ```
   $ git clone https://github.com/0xPrateek/ML-Algorithms
