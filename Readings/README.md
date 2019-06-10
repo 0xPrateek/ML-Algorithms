@@ -18,6 +18,7 @@
 #### Decision Tree
    * [Decision Trees Algorithm](https://medium.com/deep-math-machine-learning-ai/chapter-4-decision-trees-algorithms-b93975f7a1f1)
    * [Decision Tree: How To Create A Perfect Decision Tree?](https://www.edureka.co/blog/decision-trees/)
+   * [Decision Tree Python Implementation(No sciket Learn)](https://github.com/0xPrateek/ML-Algorithms/blob/master/Algorithms/Decision%20Tree/Decision%20Tree%20using%20ID3.py)
 
 #### Random Forest
    * [How The Random Forest Algorithm Works In Machine Learning](https://dataaspirant.com/2017/05/22/random-forest-algorithm-machine-learing/)
