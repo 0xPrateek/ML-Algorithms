@@ -1,5 +1,5 @@
 <h1 align = "center">
- <font size = "20">ML-Intution</font> <img src = "https://awesome.re/badge.svg">
+ <font size = "20">ML-Intuition</font> <img src = "https://awesome.re/badge.svg">
 <br>
 </h1>
 <h3 align="center">
@@ -23,3 +23,4 @@
 #### Random Forest
    * [How The Random Forest Algorithm Works In Machine Learning](https://dataaspirant.com/2017/05/22/random-forest-algorithm-machine-learing/)
    * [The Random Forest Algorithm](https://towardsdatascience.com/the-random-forest-algorithm-d457d499ffcd))
+   * [Random Forest Algorithm Python Implementaion (Without scikit Learn)](https://github.com/0xPrateek/ML-Algorithms/blob/master/Algorithms/Random%20Forest/Random%20Forest.py)
