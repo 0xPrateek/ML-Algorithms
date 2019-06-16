@@ -24,3 +24,11 @@
    * [How The Random Forest Algorithm Works In Machine Learning](https://dataaspirant.com/2017/05/22/random-forest-algorithm-machine-learing/)
    * [The Random Forest Algorithm](https://towardsdatascience.com/the-random-forest-algorithm-d457d499ffcd))
    * [Random Forest Algorithm Python Implementaion (Without scikit Learn)](https://github.com/0xPrateek/ML-Algorithms/blob/master/Algorithms/Random%20Forest/Random%20Forest.py)
+   
+#### K means Clustering
+   * [K-Means Clustering](https://www.saedsayad.com/clustering_kmeans.htm)
+   * [K-means Clustering: Algorithm, Applications, Evaluation Methods, and Drawbacks](https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a)
+   
+#### Heirarchial Clustering 
+   * [Learn with an example : Hierarchical Clustering](https://medium.com/@rohanjoseph_91119/learn-with-an-example-hierarchical-clustering-873b5b50890c)
+   * [Hierarchical Agglomerative Clustering Example In Python](https://towardsdatascience.com/machine-learning-algorithms-part-12-hierarchical-agglomerative-clustering-example-in-python-1e18e0075019)
