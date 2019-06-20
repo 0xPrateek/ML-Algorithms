@@ -32,3 +32,8 @@
 #### Heirarchial Clustering 
    * [Learn with an example : Hierarchical Clustering](https://medium.com/@rohanjoseph_91119/learn-with-an-example-hierarchical-clustering-873b5b50890c)
    * [Hierarchical Agglomerative Clustering Example In Python](https://towardsdatascience.com/machine-learning-algorithms-part-12-hierarchical-agglomerative-clustering-example-in-python-1e18e0075019)
+   
+#### Apriori Association Rule Learning
+   * [Apriori Algorithms And Their Importance In Data Mining](https://www.digitalvidya.com/blog/apriori-algorithms-in-data-mining/)
+   * [Complete guide to Association Rules (1/2)](https://towardsdatascience.com/associationrules-2-aa9a77241654)
+   * [Complete guide to Association Rules (2/2)](https://towardsdatascience.com/complete-guide-to-association-rules-2-2-c92072b56c84)
