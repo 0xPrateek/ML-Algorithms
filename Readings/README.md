@@ -37,3 +37,9 @@
    * [Apriori Algorithms And Their Importance In Data Mining](https://www.digitalvidya.com/blog/apriori-algorithms-in-data-mining/)
    * [Complete guide to Association Rules (1/2)](https://towardsdatascience.com/associationrules-2-aa9a77241654)
    * [Complete guide to Association Rules (2/2)](https://towardsdatascience.com/complete-guide-to-association-rules-2-2-c92072b56c84)
+
+#### Dimensionality reduction
+   * [Unsupervised Learning: Dimensionality Reduction](https://towardsdatascience.com/unsupervised-learning-dimensionality-reduction-ddb4d55e0757)
+        ##### Feature Selection
+        * [sequential feature selection](http://research.cs.tamu.edu/prism/lectures/pr/pr_l11.pdf)
+  
