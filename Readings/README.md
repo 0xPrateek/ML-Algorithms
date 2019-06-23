@@ -42,4 +42,7 @@
    * [Unsupervised Learning: Dimensionality Reduction](https://towardsdatascience.com/unsupervised-learning-dimensionality-reduction-ddb4d55e0757)
         ##### Feature Selection
         * [sequential feature selection](http://research.cs.tamu.edu/prism/lectures/pr/pr_l11.pdf)
+        
+        ##### Feature Extraction
+        * [A step by step explanation of Principal Component Analysis](https://towardsdatascience.com/a-step-by-step-explanation-of-principal-component-analysis-b836fb9c97e2)
   
