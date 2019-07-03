@@ -45,4 +45,8 @@
         
         ##### Feature Extraction
         * [A step by step explanation of Principal Component Analysis](https://towardsdatascience.com/a-step-by-step-explanation-of-principal-component-analysis-b836fb9c97e2)
+
+#### Neural Networks
+   * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) [Must Read]
+   * [Gradient Descent and Backpropagation](https://www.linkedin.com/pulse/gradient-descent-backpropagation-ken-chen/)
   
