@@ -50,3 +50,5 @@
    * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) [Must Read]
    * [Gradient Descent and Backpropagation](https://www.linkedin.com/pulse/gradient-descent-backpropagation-ken-chen/)
   
+#### Data Visualization 
+   * [The Ultimate Python Seaborn Tutorial: Gotta Catch ‘Em All](https://elitedatascience.com/python-seaborn-tutorial)
