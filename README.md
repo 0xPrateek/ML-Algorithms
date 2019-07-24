@@ -12,6 +12,7 @@ The purpose of this project is to implement all Machine learning algorithms in d
            * [ Linear Regression](https://github.com/0xPrateek/ML-Algorithms/blob/master/Algorithms/Linear%20Regression/LinearRegression.py)
            * [ Decision Tree (Split Algorithm - Id3)](https://github.com/0xPrateek/ML-Algorithms/blob/master/Algorithms/Decision%20Tree/Decision%20Tree%20using%20ID3.py)
            * [ Random Forest Algorithm ](https://github.com/0xPrateek/ML-Algorithms/blob/master/Algorithms/Random%20Forest/Random%20Forest.py)
+           * [Logistic Regression](https://github.com/0xPrateek/ML-Algorithms/blob/master/Algorithms/Logistic%20Regression/LogisticRegression.py)
            
  ### Installation
  ```
