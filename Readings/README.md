@@ -54,4 +54,8 @@
    * [The Ultimate Python Seaborn Tutorial: Gotta Catch ‘Em All](https://elitedatascience.com/python-seaborn-tutorial)
 
 #### Ensemble Learning
-   * [Ensemble methods: bagging, boosting and stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
+   * [Guide for ensemble learning methods](https://towardsdatascience.com/simple-guide-for-ensemble-learning-methods-d87cc68705a2)
+       ##### AdaBoost
+       * [AdaBoost, Clearly Explained](https://www.youtube.com/watch?v=LsK-xG1cLYA)
+       ##### Gradient Boosting
+       * [Gradient Boosting](https://www.youtube.com/watch?v=sRktKszFmSk)
