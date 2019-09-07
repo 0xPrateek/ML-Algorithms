@@ -73,3 +73,6 @@
 
 #### LightGBM
    * [What is LightGBM, How to implement it? How to fine tune the parameters?](https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc)
+
+#### Gradient Descent
+   * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
