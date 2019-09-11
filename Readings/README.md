@@ -76,3 +76,6 @@
 
 #### Gradient Descent
    * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
+   
+#### Word Embeddings
+   * [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
