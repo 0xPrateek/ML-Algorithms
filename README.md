@@ -13,6 +13,8 @@ The purpose of this project is to implement all Machine learning algorithms in d
            * [ Decision Tree (Split Algorithm - Id3)](https://github.com/0xPrateek/ML-Algorithms/blob/master/Algorithms/Decision%20Tree/Decision%20Tree%20using%20ID3.py)
            * [ Random Forest Algorithm ](https://github.com/0xPrateek/ML-Algorithms/blob/master/Algorithms/Random%20Forest/Random%20Forest.py)
            * [Logistic Regression](https://github.com/0xPrateek/ML-Algorithms/blob/master/Algorithms/Logistic%20Regression/LogisticRegression.py)
+        * Neural Networks <br/>
+           * [MultiClass Image Classification using keras](https://www.kaggle.com/prateek0x/multiclass-image-classification-using-keras)
            
  ### Installation
  ```
