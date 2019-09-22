@@ -15,6 +15,7 @@ The purpose of this project is to implement all Machine learning algorithms in d
            * [Logistic Regression](https://github.com/0xPrateek/ML-Algorithms/blob/master/Algorithms/Logistic%20Regression/LogisticRegression.py)
         * Neural Networks <br/>
            * [MultiClass Image Classification using keras](https://www.kaggle.com/prateek0x/multiclass-image-classification-using-keras)
+           * [FCN for Image classification using keras](https://www.kaggle.com/prateek0x/fcn-for-image-classification-using-keras)
            
  ### Installation
  ```
