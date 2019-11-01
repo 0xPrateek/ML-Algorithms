@@ -79,3 +79,6 @@
    
 #### Word Embeddings
    * [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+
+#### Neural Network Architecture
+   * [Siamese Networks](https://sorenbouma.github.io/blog/oneshot/)
