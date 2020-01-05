@@ -54,6 +54,12 @@
    * [ Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721)
    * [Gentle Dive into Math Behind Convolutional Neural Networks](https://towardsdatascience.com/gentle-dive-into-math-behind-convolutional-neural-networks-79a07dd44cf9)
 
+####  Capsule Networks
+   *  [Part 1 : Intuition](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
+   *  [Part 2 : How Capsules Work](https://pechyonkin.me/capsules-2/)
+   *  [Part 3 : Dynamic Routing Between Capsules](https://pechyonkin.me/capsules-3/)
+   *  [Part 4 : CapsNet Architecture](https://pechyonkin.me/capsules-4/)
+
 #### Data Visualization 
    * [The Ultimate Python Seaborn Tutorial: Gotta Catch ‘Em All](https://elitedatascience.com/python-seaborn-tutorial)
 
