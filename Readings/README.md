@@ -88,3 +88,4 @@
 
 #### Neural Network Architecture
    * [Siamese Networks](https://sorenbouma.github.io/blog/oneshot/)
+   * [Image Net classification ( All Architecture ) ](https://www.google.com/url?sa=t&source=web&rct=j&url=https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture08.pdf&ved=2ahUKEwicy8XOjuTnAhVmyzgGHc-rC9sQFjAaegQIDRAB&usg=AOvVaw2EkZ2GBmmlBcywfOS-v_IC&cshid=1582338722255)
