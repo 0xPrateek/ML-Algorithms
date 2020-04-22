@@ -74,6 +74,9 @@
    * [Data Leakage](https://www.kaggle.com/alexisbcook/data-leakage)
    * [Data Leakage: Think You Have a Great Machine Learning Model? Think Again](https://towardsdatascience.com/data-leakage-part-i-think-you-have-a-great-machine-learning-model-think-again-ad44921fbf34)
 
+#### Cross Validation
+   * [Adversarial cross-validation ](https://varunbpatil.github.io/2018/11/06/adversarial-cv.html)
+
 #### Model Evaluation
    * [Understanding Confusion Matrix](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
 
