@@ -99,3 +99,4 @@
 #### Misc
    * [Progressive Resizing (Keras)](https://towardsdatascience.com/boost-your-cnn-image-classifier-performance-with-progressive-resizing-in-keras-a7d96da06e20)
    * [Bag of Tricks for Image Classification](https://www.dlology.com/blog/bag-of-tricks-for-image-classification-with-convolutional-neural-networks-in-keras/)
+   * [A guide to convolution arithmetic ](https://arxiv.org/pdf/1603.07285.pdf)
