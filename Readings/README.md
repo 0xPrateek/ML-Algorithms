@@ -95,7 +95,9 @@
 
 #### AutoEncoders
    * [Autoencoder](https://wiki2.org/en/Autoencoder)
-   
+
+#### Object Detection
+   * [Object Detection for Dummies](https://lilianweng.github.io/lil-log/2017/10/29/object-recognition-for-dummies-part-1.html)
 #### Misc
    * [Progressive Resizing (Keras)](https://towardsdatascience.com/boost-your-cnn-image-classifier-performance-with-progressive-resizing-in-keras-a7d96da06e20)
    * [Bag of Tricks for Image Classification](https://www.dlology.com/blog/bag-of-tricks-for-image-classification-with-convolutional-neural-networks-in-keras/)
